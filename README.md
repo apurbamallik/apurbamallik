@@ -54,7 +54,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=apurbamallik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurbamallik&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=apurbamallik&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
@@ -70,9 +70,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurbamallik/apurbamallik/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/apurbamallik/apurbamallik/output/github-snake.svg" />
 </picture>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-endpoint.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
