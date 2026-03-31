@@ -53,12 +53,13 @@
 ### ⚡ Stats ⚡
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurbamallik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apurbamallik&theme=tokyonight" height="165" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=apurbamallik&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurbamallik&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apurbamallik&theme=tokyonight" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apurbamallik&theme=tokyonight" height="165" alt="Most Used Languages"/>
 </p>
 
 ---
